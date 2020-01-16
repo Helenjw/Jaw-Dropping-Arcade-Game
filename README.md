@@ -8,3 +8,6 @@ player’s reaction time, and begins when a player places their hand in the alli
 random, the alligator’s jaws will rapidly close on the player’s hand. If the player can escape in
 time, the game will continue and increment the player’s score. Conversely, when the player’s
 hand gets caught, the player loses, and the game is reset.
+
+This repo has been cleaned up a bit to make it easier to read. You can find the original repo here:
+https://github.com/dermarkr/ECE241-Project
